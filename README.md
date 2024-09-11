@@ -1,9 +1,8 @@
-![Screenshot 2024-09-11 224655](https://github.com/user-attachments/assets/12777455-2a8c-4bd2-8810-6e48905bee93)# Library Management System using SQL Project --P2
+# Library Management System using SQL
 
 ## Project Overview
 
 **Project Title**: Library Management System  
-**Level**: Intermediate  
 **Database**: `library management system`
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
