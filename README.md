@@ -1,14 +1,15 @@
-# Library Management System using SQL Project --P2
+![Screenshot 2024-09-11 224655](https://github.com/user-attachments/assets/12777455-2a8c-4bd2-8810-6e48905bee93)# Library Management System using SQL Project --P2
 
 ## Project Overview
 
 **Project Title**: Library Management System  
 **Level**: Intermediate  
-**Database**: `library_db`
+**Database**: `library management system`
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
-![Library_project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg)
+![download (1)](https://github.com/user-attachments/assets/40c8c8a7-de61-43e9-8f9c-a4f6a26db261)
+
 
 ## Objectives
 
@@ -20,13 +21,14 @@ This project demonstrates the implementation of a Library Management System usin
 ## Project Structure
 
 ### 1. Database Setup
-![ERD](https://github.com/najirh/Library-System-Management---P2/blob/main/library_erd.png)
+![Screenshot 2024-09-11 224655](https://github.com/user-attachments/assets/98ae474e-87d4-473f-b048-620e35d1b05d)
+
 
 - **Database Creation**: Created a database named `library_db`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
 
 ```sql
-CREATE DATABASE library_db;
+CREATE DATABASE library management system;
 
 DROP TABLE IF EXISTS branch;
 CREATE TABLE branch
@@ -498,25 +500,3 @@ Description: Write a CTAS query to create a new table that lists each member and
 ## Conclusion
 
 This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
-
-## How to Use
-
-1. **Clone the Repository**: Clone this repository to your local machine.
-   ```sh
-   git clone https://github.com/najirh/Library-System-Management---P2.git
-   ```
-
-2. **Set Up the Database**: Execute the SQL scripts in the `database_setup.sql` file to create and populate the database.
-3. **Run the Queries**: Use the SQL queries in the `analysis_queries.sql` file to perform the analysis.
-4. **Explore and Modify**: Customize the queries as needed to explore different aspects of the data or answer additional questions.
-
-## Author - Zero Analyst
-
-This project showcases SQL skills essential for database management and analysis. For more content on SQL and data analysis, connect with me through the following channels:
-
-- **YouTube**: [Subscribe to my channel for tutorials and insights](https://www.youtube.com/@zero_analyst)
-- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/zero_analyst/)
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/najirr)
-- **Discord**: [Join our community for learning and collaboration](https://discord.gg/36h5f2Z5PK)
-
-Thank you for your interest in this project!
